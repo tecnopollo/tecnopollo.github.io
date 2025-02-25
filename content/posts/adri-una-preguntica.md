@@ -4,5 +4,5 @@ draft = false
 title = 'Adri Una Preguntica'
 +++
 # Una preguntica...
-Querida Adriana, una preguntica...¿El sitio web de Tecnopollo se ve chevere? Porque puedo cambiar la forma en la que se ve.
+Querida Adriana, una preguntica...¿El sitio web de Tecnopollo se ve chévere? Porque puedo cambiar la forma en la que se ve.
 Sinceramente, Tecnopollo.
