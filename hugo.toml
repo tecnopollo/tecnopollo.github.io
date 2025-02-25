@@ -1,0 +1,17 @@
+baseURL = 'https://tecnopollo.github.io/blog'
+languageCode = 'es'
+title = 'Tecnopollo'
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+enableInlineShortcodes = true
+privacy_pack = true
+contentratio = 0.7
+
+[params] 
+title = "Tecnopollo"
+description = "Informatica Informal"
+profilePicture = "p.jpg"
+Copyright = "Tecnopollo"
+#hidesidebar = true

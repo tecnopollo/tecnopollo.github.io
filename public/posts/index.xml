@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tecnopollo</title>
+    <link>http://localhost:1313/blog/posts/</link>
+    <description>Recent content in Posts on Tecnopollo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 24 Feb 2025 21:14:33 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenida a Tecnopollo</title>
+      <link>http://localhost:1313/blog/posts/bienvenida-a-tecnopollo/</link>
+      <pubDate>Mon, 24 Feb 2025 21:14:33 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/posts/bienvenida-a-tecnopollo/</guid>
+      
+        <description>&lt;h1 id=&#34;bienvenidos&#34;&gt;Bienvenidos!!!&lt;/h1&gt;
+&lt;p&gt;Quihubo y cálida bienvenida a Tecnopollo. Tecnopollo es un blog que se enfoca en la &amp;ldquo;informática informal&amp;rdquo;, discutiendo temas tecnológicos actuales con entusiasmo y relajo.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
