@@ -2,6 +2,7 @@
 date = '2025-02-24T21:14:33-05:00'
 draft = false
 title = 'Bienvenida a Tecnopollo'
+tags = ['Tecnopollo']
 +++
 # Bienvenidos!!!
 Quihubo y cálida bienvenida a Tecnopollo. Tecnopollo es un blog que se enfoca en la "informática informal", discutiendo temas tecnológicos actuales con entusiasmo y relajo.

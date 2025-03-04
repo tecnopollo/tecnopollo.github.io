@@ -2,24 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tecnopollo</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://localhost:1313/blog/tags/tecnopollo/</link>
     <description>Recent content on Tecnopollo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 25 Feb 2025 17:18:05 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Adri Una Preguntica</title>
-      <link>http://localhost:1313/blog/posts/adri-una-preguntica/</link>
-      <pubDate>Tue, 25 Feb 2025 17:18:05 -0500</pubDate>
-      
-      <guid>http://localhost:1313/blog/posts/adri-una-preguntica/</guid>
-      
-        <description>&lt;h1 id=&#34;una-preguntica&#34;&gt;Una preguntica&amp;hellip;&lt;/h1&gt;
-&lt;p&gt;Querida Adriana, una preguntica&amp;hellip;¿El sitio web de Tecnopollo se ve chévere? Porque puedo cambiar la forma en la que se ve.
-Sinceramente, Tecnopollo.&lt;/p&gt;</description>
-      
-    </item>
-    
+    <lastBuildDate>Mon, 24 Feb 2025 21:14:33 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/tecnopollo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenida a Tecnopollo</title>
       <link>http://localhost:1313/blog/posts/bienvenida-a-tecnopollo/</link>
