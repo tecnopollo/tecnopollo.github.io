@@ -1,6 +1,6 @@
 +++
 date = '2025-03-04T17:23:32-05:00'
-draft = true
+draft = false
 title = 'Ventajas y Desventajas de las TICs'
 tags = ['TICs']
 +++

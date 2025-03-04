@@ -6,7 +6,18 @@
     <description>Recent content in Tags on Tecnopollo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 24 Feb 2025 21:14:33 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Mar 2025 17:23:32 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TICs</title>
+      <link>http://localhost:1313/blog/tags/tics/</link>
+      <pubDate>Tue, 04 Mar 2025 17:23:32 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/tags/tics/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>Tecnopollo</title>
       <link>http://localhost:1313/blog/tags/tecnopollo/</link>

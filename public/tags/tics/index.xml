@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TICs on Tecnopollo</title>
+    <link>http://localhost:1313/blog/tags/tics/</link>
+    <description>Recent content in TICs on Tecnopollo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 04 Mar 2025 17:23:32 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/tics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ventajas y Desventajas de las TICs</title>
+      <link>http://localhost:1313/blog/posts/ventajas-y-desventajas-de-las-tic/</link>
+      <pubDate>Tue, 04 Mar 2025 17:23:32 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/posts/ventajas-y-desventajas-de-las-tic/</guid>
+      
+        <description>&lt;h1 id=&#34;que-son-las-tics&#34;&gt;Que son las TICs?&lt;/h1&gt;
+&lt;p&gt;TIC es un acrónimo de &lt;em&gt;&amp;ldquo;Tecnologias de la Información y Comunicación&amp;rdquo;&lt;/em&gt; y son tecnologías que utilizan la informatica y telecomunicaciones para crear una nueva forma de transmitir la información.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
