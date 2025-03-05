@@ -2,45 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tecnopollo</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Tecnopollo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 04 Mar 2025 17:23:32 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Mar 2025 17:23:32 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ventajas y Desventajas de las TICs</title>
-      <link>http://localhost:1313/blog/posts/ventajas-y-desventajas-de-las-tic/</link>
+      <link>http://localhost:1313/posts/ventajas-y-desventajas-de-las-tic/</link>
       <pubDate>Tue, 04 Mar 2025 17:23:32 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/ventajas-y-desventajas-de-las-tic/</guid>
+      <guid>http://localhost:1313/posts/ventajas-y-desventajas-de-las-tic/</guid>
       
-        <description>&lt;h1 id=&#34;que-son-las-tics&#34;&gt;Que son las TICs?&lt;/h1&gt;
-&lt;p&gt;TIC es un acrónimo de &lt;em&gt;&amp;ldquo;Tecnologias de la Información y Comunicación&amp;rdquo;&lt;/em&gt; y son tecnologías que utilizan la informatica y telecomunicaciones para crear una nueva forma de transmitir la información.&lt;/p&gt;</description>
+        <description>&lt;p&gt;Redes telefónicas, sitios web, mensajería instantanea, aplicaciones de bancos. Las TICs parecen estar en todas partes hoy en día. Es por eso tan importante que en este mundo moderno conozcamos sus ventajas y desventajas.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Adri Una Preguntica</title>
-      <link>http://localhost:1313/blog/posts/adri-una-preguntica/</link>
+      <title>Adri, una preguntica...</title>
+      <link>http://localhost:1313/posts/adri-una-preguntica/</link>
       <pubDate>Tue, 25 Feb 2025 17:18:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/adri-una-preguntica/</guid>
+      <guid>http://localhost:1313/posts/adri-una-preguntica/</guid>
       
-        <description>&lt;h1 id=&#34;una-preguntica&#34;&gt;Una preguntica&amp;hellip;&lt;/h1&gt;
-&lt;p&gt;Querida Adriana, una preguntica&amp;hellip;¿El sitio web de Tecnopollo se ve chévere? Porque puedo cambiar la forma en la que se ve.
+        <description>&lt;p&gt;Querida Adriana, una preguntica&amp;hellip;¿El sitio web de Tecnopollo se ve chévere? Porque puedo cambiar la forma en la que se ve.
 Sinceramente, Tecnopollo.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Bienvenida a Tecnopollo</title>
-      <link>http://localhost:1313/blog/posts/bienvenida-a-tecnopollo/</link>
+      <link>http://localhost:1313/posts/bienvenida-a-tecnopollo/</link>
       <pubDate>Mon, 24 Feb 2025 21:14:33 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/bienvenida-a-tecnopollo/</guid>
+      <guid>http://localhost:1313/posts/bienvenida-a-tecnopollo/</guid>
       
-        <description>&lt;h1 id=&#34;bienvenidos&#34;&gt;Bienvenidos!!!&lt;/h1&gt;
-&lt;p&gt;Quihubo y cálida bienvenida a Tecnopollo. Tecnopollo es un blog que se enfoca en la &amp;ldquo;informática informal&amp;rdquo;, discutiendo temas tecnológicos actuales con entusiasmo y relajo.&lt;/p&gt;</description>
+        <description>&lt;p&gt;Quihubo y cálida bienvenida a Tecnopollo. Tecnopollo es un blog que se enfoca en la &amp;ldquo;informática informal&amp;rdquo;, discutiendo temas tecnológicos actuales con entusiasmo y relajo.&lt;/p&gt;</description>
       
     </item>
     
