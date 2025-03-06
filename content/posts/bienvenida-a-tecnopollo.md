@@ -13,5 +13,5 @@ Tecnopollo aunque se enfoca en la informalidad y el blogueo casual, no tiene pro
 Sinceramente, yo, el autor de Tecnopollo, no tengo intenciones de seguir con el blog una vez que se me califique en la clase de tecnología. ¡Soy demasiado perezoso como para continuar! Por eso les hago una invitación a disfrutar al máximo este blog efímero y que juntos, lector y autor, aprendamos más de tecnología.
 # Agradecimientos especiales a Hugo
 Este sitio web ha sido hecho con [Hugo](https://gohugo.io), un generador de sitios web estaticos y usa el tema [anatole](https://github.com/lxndrblz/anatole). Agradecimientos especiales a los creadores de este maravilloso software.
-Para quien no sepa que Hugo es aquí dejo un video en inglés explicando que es.
+Para quien no sepa que es Hugo aquí dejo un video en inglés explicando que es.
 {{< youtube 0RKpf3rK57I >}}
