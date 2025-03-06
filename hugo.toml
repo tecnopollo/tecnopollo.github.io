@@ -7,7 +7,6 @@ enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
 privacy_pack = true
-contentratio = 0.7
 
 [params] 
 title = "Tecnopollo"
