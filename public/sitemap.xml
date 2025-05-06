@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-08T17:11:18-05:00</lastmod>
+    <lastmod>2025-05-06T17:44:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/reflexiones-respecto-a-la-propiedad-intelectual/</loc>
-    <lastmod>2025-04-08T17:11:18-05:00</lastmod>
+    <loc>http://localhost:1313/posts/tecnoestres/</loc>
+    <lastmod>2025-05-06T17:44:18-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-06T17:44:18-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/reflexiones-respecto-a-la-propiedad-intelectual/</loc>
     <lastmod>2025-04-08T17:11:18-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/uso-de-artefactos-tecnologicos/</loc>
