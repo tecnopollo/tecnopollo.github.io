@@ -2,39 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://tecnopollo.github.io/posts/</loc>
+    <lastmod>2025-07-19T16:55:58-05:00</lastmod>
+  </url><url>
+    <loc>https://tecnopollo.github.io/posts/que-es-la-robotica/</loc>
+    <lastmod>2025-07-19T16:55:58-05:00</lastmod>
+  </url><url>
+    <loc>https://tecnopollo.github.io/tags/rob%C3%B3tica/</loc>
+    <lastmod>2025-07-19T16:55:58-05:00</lastmod>
+  </url><url>
+    <loc>https://tecnopollo.github.io/tags/</loc>
+    <lastmod>2025-07-19T16:55:58-05:00</lastmod>
+  </url><url>
+    <loc>https://tecnopollo.github.io/</loc>
+    <lastmod>2025-07-19T16:55:58-05:00</lastmod>
+  </url><url>
+    <loc>https://tecnopollo.github.io/posts/tecnoestres/</loc>
     <lastmod>2025-05-06T17:44:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tecnoestres/</loc>
-    <lastmod>2025-05-06T17:44:18-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-06T17:44:18-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/reflexiones-respecto-a-la-propiedad-intelectual/</loc>
+    <loc>https://tecnopollo.github.io/posts/reflexiones-respecto-a-la-propiedad-intelectual/</loc>
     <lastmod>2025-04-08T17:11:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/uso-de-artefactos-tecnologicos/</loc>
+    <loc>https://tecnopollo.github.io/posts/uso-de-artefactos-tecnologicos/</loc>
     <lastmod>2025-03-18T16:27:07-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://tecnopollo.github.io/tags/tics/</loc>
     <lastmod>2025-03-04T17:23:32-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tics/</loc>
+    <loc>https://tecnopollo.github.io/posts/ventajas-y-desventajas-de-las-tic/</loc>
     <lastmod>2025-03-04T17:23:32-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ventajas-y-desventajas-de-las-tic/</loc>
-    <lastmod>2025-03-04T17:23:32-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/adri-una-preguntica/</loc>
+    <loc>https://tecnopollo.github.io/posts/adri-una-preguntica/</loc>
     <lastmod>2025-02-25T17:18:05-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/bienvenida-a-tecnopollo/</loc>
+    <loc>https://tecnopollo.github.io/posts/bienvenida-a-tecnopollo/</loc>
     <lastmod>2025-02-24T21:14:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tecnopollo/</loc>
+    <loc>https://tecnopollo.github.io/tags/tecnopollo/</loc>
     <lastmod>2025-02-24T21:14:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://tecnopollo.github.io/categories/</loc>
   </url>
 </urlset>

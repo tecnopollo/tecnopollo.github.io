@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robótica on Tecnopollo</title>
+    <link>https://tecnopollo.github.io/tags/rob%C3%B3tica/</link>
+    <description>Recent content in Robótica on Tecnopollo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 19 Jul 2025 16:55:58 -0500</lastBuildDate><atom:link href="https://tecnopollo.github.io/tags/rob%C3%B3tica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qué es la robotica?</title>
+      <link>https://tecnopollo.github.io/posts/que-es-la-robotica/</link>
+      <pubDate>Sat, 19 Jul 2025 16:55:58 -0500</pubDate>
+      
+      <guid>https://tecnopollo.github.io/posts/que-es-la-robotica/</guid>
+      
+        <description>&lt;p&gt;La robótica es un ambito muy presente en la vida moderna, y por eso, es recomendable saber tantico al respecto. Sea por necesidad genuina o por mera cultura general, les recomiendo revisar la presentación &lt;a href=&#34;https://tecnopollo.github.io/documents/Qu%C3%A9%20es%20la%20rob%C3%B3tica.pdf&#34;&gt;Qué es la robotica?&lt;/a&gt; de mi autoría para que se informen.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
