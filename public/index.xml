@@ -2,28 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tecnopollo</title>
-    <link>https://tecnopollo.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Tecnopollo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 19 Jul 2025 16:55:58 -0500</lastBuildDate><atom:link href="https://tecnopollo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Aug 2025 16:39:54 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Qué es la robotica?</title>
-      <link>https://tecnopollo.github.io/posts/que-es-la-robotica/</link>
+      <title>Robotica Medica</title>
+      <link>http://localhost:1313/posts/robotica-medica/</link>
+      <pubDate>Tue, 26 Aug 2025 16:39:54 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/robotica-medica/</guid>
+      
+        <description>&lt;p&gt;El tema de la robótica médica no es únicamente interesante, sino muy importante.
+Los avances en la medicina que prometen este tipo de tecnologías son cruciales en el tratamiento de muchos enfermos al rededor del mundo.
+Debajo hay una presentación al respecto.
+&lt;a href=&#34;http://localhost:1313/documents/robotica-medica.pdf&#34;&gt;Robotica médica&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>¿Qué es la robotica?</title>
+      <link>http://localhost:1313/posts/que-es-la-robotica/</link>
       <pubDate>Sat, 19 Jul 2025 16:55:58 -0500</pubDate>
       
-      <guid>https://tecnopollo.github.io/posts/que-es-la-robotica/</guid>
+      <guid>http://localhost:1313/posts/que-es-la-robotica/</guid>
       
-        <description>&lt;p&gt;La robótica es un ambito muy presente en la vida moderna, y por eso, es recomendable saber tantico al respecto. Sea por necesidad genuina o por mera cultura general, les recomiendo revisar la presentación &lt;a href=&#34;https://tecnopollo.github.io/documents/Qu%C3%A9%20es%20la%20rob%C3%B3tica.pdf&#34;&gt;Qué es la robotica?&lt;/a&gt; de mi autoría para que se informen.&lt;/p&gt;</description>
+        <description>&lt;p&gt;La robótica es un ambito muy presente en la vida moderna, y por eso, es recomendable saber tantico al respecto. Sea por necesidad genuina o por mera cultura general, les recomiendo revisar la presentación &lt;a href=&#34;http://localhost:1313/documents/Qu%C3%A9%20es%20la%20rob%C3%B3tica.pdf&#34;&gt;¿Qué es la robotica?&lt;/a&gt; de mi autoría para que se informen.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Tecnoestrés</title>
-      <link>https://tecnopollo.github.io/posts/tecnoestres/</link>
+      <link>http://localhost:1313/posts/tecnoestres/</link>
       <pubDate>Tue, 06 May 2025 17:44:18 -0500</pubDate>
       
-      <guid>https://tecnopollo.github.io/posts/tecnoestres/</guid>
+      <guid>http://localhost:1313/posts/tecnoestres/</guid>
       
         <description>&lt;p&gt;Buenas noches a todos. Dado que el tecnoestrés es cada día un problema más común es necesario saber más al respecto. A continuación encontrarán una simple diapositiva para que se informen y sepan más al respecto. &lt;a href=&#34;https://www.calameo.com/read/0079376536ce10ec89eef&#34;&gt;Diapositiva&lt;/a&gt;.&lt;/p&gt;</description>
       
@@ -31,10 +45,10 @@
     
     <item>
       <title>Reflexiones Respecto a La Propiedad Intelectual</title>
-      <link>https://tecnopollo.github.io/posts/reflexiones-respecto-a-la-propiedad-intelectual/</link>
+      <link>http://localhost:1313/posts/reflexiones-respecto-a-la-propiedad-intelectual/</link>
       <pubDate>Tue, 08 Apr 2025 17:11:18 -0500</pubDate>
       
-      <guid>https://tecnopollo.github.io/posts/reflexiones-respecto-a-la-propiedad-intelectual/</guid>
+      <guid>http://localhost:1313/posts/reflexiones-respecto-a-la-propiedad-intelectual/</guid>
       
         <description>&lt;p&gt;Buenos días, tardes o noches a todos los lectores del blog de &lt;strong&gt;Tecnopollo&lt;/strong&gt;. Aquí unas reflexiones y documentos respecto a la propiedad intelectual para su disfrute.&lt;/p&gt;</description>
       
@@ -42,10 +56,10 @@
     
     <item>
       <title>Uso de los artefactos tecnológicos</title>
-      <link>https://tecnopollo.github.io/posts/uso-de-artefactos-tecnologicos/</link>
+      <link>http://localhost:1313/posts/uso-de-artefactos-tecnologicos/</link>
       <pubDate>Tue, 18 Mar 2025 16:27:07 -0500</pubDate>
       
-      <guid>https://tecnopollo.github.io/posts/uso-de-artefactos-tecnologicos/</guid>
+      <guid>http://localhost:1313/posts/uso-de-artefactos-tecnologicos/</guid>
       
         <description>&lt;p&gt;Les pido disculpas querida audiencia. Por ciertas complicaciones no les podré entregar mi contenido por medio del blog, que permite facil y cómoda lectura, sino por medio de &lt;code&gt;pdf&lt;/code&gt;. Agradezco su comprensión.&lt;/p&gt;</description>
       
@@ -53,10 +67,10 @@
     
     <item>
       <title>Ventajas y Desventajas de las TICs</title>
-      <link>https://tecnopollo.github.io/posts/ventajas-y-desventajas-de-las-tic/</link>
+      <link>http://localhost:1313/posts/ventajas-y-desventajas-de-las-tic/</link>
       <pubDate>Tue, 04 Mar 2025 17:23:32 -0500</pubDate>
       
-      <guid>https://tecnopollo.github.io/posts/ventajas-y-desventajas-de-las-tic/</guid>
+      <guid>http://localhost:1313/posts/ventajas-y-desventajas-de-las-tic/</guid>
       
         <description>&lt;p&gt;Redes telefónicas, sitios web, mensajería instantanea, aplicaciones de bancos. Las TICs parecen estar en todas partes hoy en día. Es por eso tan importante que en este mundo moderno conozcamos sus ventajas y desventajas.&lt;/p&gt;</description>
       
@@ -64,10 +78,10 @@
     
     <item>
       <title>Adri, una preguntica...</title>
-      <link>https://tecnopollo.github.io/posts/adri-una-preguntica/</link>
+      <link>http://localhost:1313/posts/adri-una-preguntica/</link>
       <pubDate>Tue, 25 Feb 2025 17:18:05 -0500</pubDate>
       
-      <guid>https://tecnopollo.github.io/posts/adri-una-preguntica/</guid>
+      <guid>http://localhost:1313/posts/adri-una-preguntica/</guid>
       
         <description>&lt;p&gt;Querida Adriana, una preguntica&amp;hellip;¿El sitio web de Tecnopollo se ve chévere? Porque puedo cambiar la forma en la que se ve.
 Sinceramente, Tecnopollo.&lt;/p&gt;</description>
@@ -76,10 +90,10 @@ Sinceramente, Tecnopollo.&lt;/p&gt;</description>
     
     <item>
       <title>Bienvenida a Tecnopollo</title>
-      <link>https://tecnopollo.github.io/posts/bienvenida-a-tecnopollo/</link>
+      <link>http://localhost:1313/posts/bienvenida-a-tecnopollo/</link>
       <pubDate>Mon, 24 Feb 2025 21:14:33 -0500</pubDate>
       
-      <guid>https://tecnopollo.github.io/posts/bienvenida-a-tecnopollo/</guid>
+      <guid>http://localhost:1313/posts/bienvenida-a-tecnopollo/</guid>
       
         <description>&lt;p&gt;Quihubo y cálida bienvenida a Tecnopollo. Tecnopollo es un blog que se enfoca en la &amp;ldquo;informática informal&amp;rdquo;, discutiendo temas tecnológicos actuales con entusiasmo y relajo.&lt;/p&gt;</description>
       

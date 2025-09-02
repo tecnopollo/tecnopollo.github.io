@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TICs on Tecnopollo</title>
-    <link>https://tecnopollo.github.io/tags/tics/</link>
+    <link>http://localhost:1313/tags/tics/</link>
     <description>Recent content in TICs on Tecnopollo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 04 Mar 2025 17:23:32 -0500</lastBuildDate><atom:link href="https://tecnopollo.github.io/tags/tics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Mar 2025 17:23:32 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/tics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ventajas y Desventajas de las TICs</title>
-      <link>https://tecnopollo.github.io/posts/ventajas-y-desventajas-de-las-tic/</link>
+      <link>http://localhost:1313/posts/ventajas-y-desventajas-de-las-tic/</link>
       <pubDate>Tue, 04 Mar 2025 17:23:32 -0500</pubDate>
       
-      <guid>https://tecnopollo.github.io/posts/ventajas-y-desventajas-de-las-tic/</guid>
+      <guid>http://localhost:1313/posts/ventajas-y-desventajas-de-las-tic/</guid>
       
         <description>&lt;p&gt;Redes telefónicas, sitios web, mensajería instantanea, aplicaciones de bancos. Las TICs parecen estar en todas partes hoy en día. Es por eso tan importante que en este mundo moderno conozcamos sus ventajas y desventajas.&lt;/p&gt;</description>
       

@@ -2,17 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tecnopollo</title>
-    <link>https://tecnopollo.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Tecnopollo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 19 Jul 2025 16:55:58 -0500</lastBuildDate><atom:link href="https://tecnopollo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Aug 2025 16:39:54 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Tue, 26 Aug 2025 16:39:54 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Medicina</title>
+      <link>http://localhost:1313/tags/medicina/</link>
+      <pubDate>Tue, 26 Aug 2025 16:39:54 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/medicina/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>Robótica</title>
-      <link>https://tecnopollo.github.io/tags/rob%C3%B3tica/</link>
-      <pubDate>Sat, 19 Jul 2025 16:55:58 -0500</pubDate>
+      <link>http://localhost:1313/tags/rob%C3%B3tica/</link>
+      <pubDate>Tue, 26 Aug 2025 16:39:54 -0500</pubDate>
       
-      <guid>https://tecnopollo.github.io/tags/rob%C3%B3tica/</guid>
+      <guid>http://localhost:1313/tags/rob%C3%B3tica/</guid>
       
         <description></description>
       
@@ -20,10 +42,10 @@
     
     <item>
       <title>TICs</title>
-      <link>https://tecnopollo.github.io/tags/tics/</link>
+      <link>http://localhost:1313/tags/tics/</link>
       <pubDate>Tue, 04 Mar 2025 17:23:32 -0500</pubDate>
       
-      <guid>https://tecnopollo.github.io/tags/tics/</guid>
+      <guid>http://localhost:1313/tags/tics/</guid>
       
         <description></description>
       
@@ -31,10 +53,10 @@
     
     <item>
       <title>Tecnopollo</title>
-      <link>https://tecnopollo.github.io/tags/tecnopollo/</link>
+      <link>http://localhost:1313/tags/tecnopollo/</link>
       <pubDate>Mon, 24 Feb 2025 21:14:33 -0500</pubDate>
       
-      <guid>https://tecnopollo.github.io/tags/tecnopollo/</guid>
+      <guid>http://localhost:1313/tags/tecnopollo/</guid>
       
         <description></description>
       

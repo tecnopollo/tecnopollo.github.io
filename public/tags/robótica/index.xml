@@ -2,19 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robótica on Tecnopollo</title>
-    <link>https://tecnopollo.github.io/tags/rob%C3%B3tica/</link>
+    <link>http://localhost:1313/tags/rob%C3%B3tica/</link>
     <description>Recent content in Robótica on Tecnopollo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 19 Jul 2025 16:55:58 -0500</lastBuildDate><atom:link href="https://tecnopollo.github.io/tags/rob%C3%B3tica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Aug 2025 16:39:54 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/rob%C3%B3tica/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Qué es la robotica?</title>
-      <link>https://tecnopollo.github.io/posts/que-es-la-robotica/</link>
+      <title>Robotica Medica</title>
+      <link>http://localhost:1313/posts/robotica-medica/</link>
+      <pubDate>Tue, 26 Aug 2025 16:39:54 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/robotica-medica/</guid>
+      
+        <description>&lt;p&gt;El tema de la robótica médica no es únicamente interesante, sino muy importante.
+Los avances en la medicina que prometen este tipo de tecnologías son cruciales en el tratamiento de muchos enfermos al rededor del mundo.
+Debajo hay una presentación al respecto.
+&lt;a href=&#34;http://localhost:1313/documents/robotica-medica.pdf&#34;&gt;Robotica médica&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>¿Qué es la robotica?</title>
+      <link>http://localhost:1313/posts/que-es-la-robotica/</link>
       <pubDate>Sat, 19 Jul 2025 16:55:58 -0500</pubDate>
       
-      <guid>https://tecnopollo.github.io/posts/que-es-la-robotica/</guid>
+      <guid>http://localhost:1313/posts/que-es-la-robotica/</guid>
       
-        <description>&lt;p&gt;La robótica es un ambito muy presente en la vida moderna, y por eso, es recomendable saber tantico al respecto. Sea por necesidad genuina o por mera cultura general, les recomiendo revisar la presentación &lt;a href=&#34;https://tecnopollo.github.io/documents/Qu%C3%A9%20es%20la%20rob%C3%B3tica.pdf&#34;&gt;Qué es la robotica?&lt;/a&gt; de mi autoría para que se informen.&lt;/p&gt;</description>
+        <description>&lt;p&gt;La robótica es un ambito muy presente en la vida moderna, y por eso, es recomendable saber tantico al respecto. Sea por necesidad genuina o por mera cultura general, les recomiendo revisar la presentación &lt;a href=&#34;http://localhost:1313/documents/Qu%C3%A9%20es%20la%20rob%C3%B3tica.pdf&#34;&gt;¿Qué es la robotica?&lt;/a&gt; de mi autoría para que se informen.&lt;/p&gt;</description>
       
     </item>
     
