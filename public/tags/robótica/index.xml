@@ -6,7 +6,19 @@
     <description>Recent content in Robótica on Tecnopollo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 26 Aug 2025 16:39:54 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/rob%C3%B3tica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Oct 2025 17:33:13 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/rob%C3%B3tica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tendencias en Robótica</title>
+      <link>http://localhost:1313/posts/tendencias-en-robotica/</link>
+      <pubDate>Tue, 14 Oct 2025 17:33:13 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/tendencias-en-robotica/</guid>
+      
+        <description>&lt;p&gt;El 2025 ha sido un año lleno de avances de la tecnología que han traido con ellas nuevas tendencias.
+&lt;img src=&#34;http://localhost:1313/images/tendencias-en-robotica-diagrama.png&#34; alt=&#34;Tendencias en Robótica Diagrama&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Robotica Medica</title>
       <link>http://localhost:1313/posts/robotica-medica/</link>
